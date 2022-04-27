@@ -5,3 +5,15 @@ With Node.JS it is possible to use the bcrypt lib using the bcrypt third-party m
 
 For Node.JS version 12.13 we use bcrypt lib version 3.0.6 or higher.
 
+**NPM PACKAGES**
+In order to have the NPM installed, run the following code:
+
+`npm install`
+
+And then, to have access to bcrypt lib, run:
+
+`npm i bcrypt`
+
+Finally you will be able to run tests using our code sample.
+
+Happy coding
